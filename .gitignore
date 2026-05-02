@@ -43,6 +43,7 @@ Thumbs.db
 *.so
 *.dylib
 *.lib
+*.bin
 
 # ---------- Ignore map build data ----------
 *_BuiltData.uasset
